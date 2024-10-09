@@ -1,5 +1,2 @@
-#Modificacion
-print("rama 1")
-
-#suma
-print(3+4)
+fruits = ('banana', 'orange', 'mango', 'lemon')
+print('orange' in fruits) # True
